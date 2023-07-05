@@ -2,6 +2,7 @@
 package com.mycompany.pelucanina.logica;
 
 import com.mycompany.pelucanina.persistencia.ControladoraPersistencia;
+import java.util.List;
 
 public class Controladora {
     ControladoraPersistencia controlPersis = new ControladoraPersistencia();
@@ -22,5 +23,13 @@ public class Controladora {
         masco.setUnDuenio(duenio);
         
         controlPersis.guardar(duenio,masco);
+    }
+
+    public List<Mascota> traerMascotas() {
+        return controlPersis.traerMascotas();
+    }
+
+    public void borrarMascota(int num_cliente) {
+        controlPersis.borrarMascota(num_cliente);
     }
 }

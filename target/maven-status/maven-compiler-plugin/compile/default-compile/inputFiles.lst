@@ -1,3 +1,13 @@
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/igu/Principal.java
-/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/igu/CargaDatos.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/igu/VerDatos.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/exceptions/PreexistingEntityException.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/exceptions/NonexistentEntityException.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/logica/Duenio.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/exceptions/IllegalOrphanException.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/MascotaJpaController.java
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/PeluCanina.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/logica/Mascota.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/DuenioJpaController.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/ControladoraPersistencia.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/logica/Controladora.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/igu/CargaDatos.java
