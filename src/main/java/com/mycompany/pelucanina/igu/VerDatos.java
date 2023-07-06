@@ -179,7 +179,9 @@ public class VerDatos extends javax.swing.JFrame {
             if (tablaMascota.getSelectedRow() != -1) {
                //Obtengo el id de la mascota a editar
                 int num_cliente = Integer.parseInt(String.valueOf(tablaMascota.getValueAt(tablaMascota.getSelectedRow(), 0)));
-                
+                ModificarDatos pantallaModif = new ModificarDatos(num_cliente);
+                pantallaModif.setVisible(true);
+                pantallaModif.setLocationRelativeTo(null);
             }
             else{
                 mostrarMensaje("No soleccionó ninguna mascota", "Error", "Error al eliminar");

@@ -1,12 +1,16 @@
 com/mycompany/pelucanina/logica/Controladora.class
 com/mycompany/pelucanina/igu/CargaDatos.class
+com/mycompany/pelucanina/igu/ModificarDatos.class
+com/mycompany/pelucanina/igu/ModificarDatos$2.class
 com/mycompany/pelucanina/igu/CargaDatos$3.class
 com/mycompany/pelucanina/logica/Mascota_.class
 com/mycompany/pelucanina/persistencia/ControladoraPersistencia.class
 com/mycompany/pelucanina/igu/VerDatos$2.class
 com/mycompany/pelucanina/logica/Mascota.class
 com/mycompany/pelucanina/igu/Principal$2.class
+com/mycompany/pelucanina/igu/VerDatos$4.class
 com/mycompany/pelucanina/igu/Principal$3.class
+com/mycompany/pelucanina/igu/ModificarDatos$3.class
 com/mycompany/pelucanina/igu/Principal.class
 com/mycompany/pelucanina/persistencia/exceptions/NonexistentEntityException.class
 com/mycompany/pelucanina/logica/Duenio_.class
@@ -19,6 +23,7 @@ com/mycompany/pelucanina/igu/VerDatos$1.class
 com/mycompany/pelucanina/PeluCanina.class
 com/mycompany/pelucanina/igu/Principal$1.class
 com/mycompany/pelucanina/persistencia/exceptions/IllegalOrphanException.class
+com/mycompany/pelucanina/igu/ModificarDatos$1.class
 com/mycompany/pelucanina/igu/CargaDatos$2.class
 com/mycompany/pelucanina/persistencia/MascotaJpaController.class
 com/mycompany/pelucanina/igu/VerDatos$3.class
