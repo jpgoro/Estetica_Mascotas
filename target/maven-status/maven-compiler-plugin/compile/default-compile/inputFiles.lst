@@ -7,6 +7,7 @@
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/MascotaJpaController.java
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/PeluCanina.java
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/logica/Mascota.java
+/home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/igu/ModificarDatos.java
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/DuenioJpaController.java
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/persistencia/ControladoraPersistencia.java
 /home/xenieze/NetBeansProjects/peluCanina/src/main/java/com/mycompany/pelucanina/logica/Controladora.java
