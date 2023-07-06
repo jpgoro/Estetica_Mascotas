@@ -182,6 +182,8 @@ public class VerDatos extends javax.swing.JFrame {
                 ModificarDatos pantallaModif = new ModificarDatos(num_cliente);
                 pantallaModif.setVisible(true);
                 pantallaModif.setLocationRelativeTo(null);
+                
+                this.dispose();
             }
             else{
                 mostrarMensaje("No soleccionó ninguna mascota", "Error", "Error al eliminar");
@@ -190,6 +192,7 @@ public class VerDatos extends javax.swing.JFrame {
         else{
             mostrarMensaje("No hay nada para eliminar en la tabla", "Error", "Error al eliminar");
         }
+        
     }//GEN-LAST:event_btnEditarActionPerformed
     public void mostrarMensaje(String mensaje, String tipo, String titulo) {
         JOptionPane optionPane = new JOptionPane(mensaje);
